@@ -1,0 +1,2 @@
+# GitMiner
+Integration project
